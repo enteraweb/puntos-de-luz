@@ -14,7 +14,7 @@
                                     <nav id="menu">
                                         <ul id="menu-main-menu" class="menu">
                                             <li class=" current_page_item">
-                                                <a href="index.php"><span> Home </span></a>
+                                                <a href="index.php"><span> Inicio </span></a>
                                             </li>
                                             <li>
                                                 <a href="content/politics/news.html"><span>News</span></a>
