@@ -11,7 +11,7 @@
 
     <!-- Basic Page Needs -->
     <meta charset="utf-8">
-    <title>Be</title>
+    <title> Agrupación Espírita Puntos de Luz </title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -43,55 +43,8 @@
         <!-- Header Wrapper -->
         <div id="Header_wrapper">
             <!-- Header -->
-            <header id="Header">
-
-                <!-- Header -  Logo and Menu area -->
-                <div id="Top_bar">
-                    <div class="container">
-                        <div class="column one">
-                            <div class="top_bar_left clearfix">
-                                <!-- Logo-->
-                                <div class="logo">
-                                    <h1><a id="logo" href="index-politics.html" title="BePolitics - BeTheme"><img class="scale-with-grid" src="content/politics/images/politics.png" alt="BePolitics - BeTheme" /></a></h1>
-                                </div>
-                                <!-- Main menu-->
-                                <div class="menu_wrapper">
-                                    <nav id="menu">
-                                        <ul id="menu-main-menu" class="menu">
-                                            <li class=" current_page_item">
-                                                <a href="index-politics.html"><span>Home</span></a>
-                                            </li>
-                                            <li>
-                                                <a href="content/politics/news.html"><span>News</span></a>
-                                            </li>
-                                            <li>
-                                                <a href="content/politics/important-subjects.html"><span>Important subjects</span></a>
-                                            </li>
-                                            <li>
-                                                <a href="content/politics/about.html"><span>About</span></a>
-                                            </li>
-                                            <li>
-                                                <a href="content/politics/documents.html"><span>Documents</span></a>
-                                            </li>
-                                            <li>
-                                                <a href="content/politics/staff.html"><span>Staff</span></a>
-                                            </li>
-                                        </ul>
-                                    </nav><a class="responsive-menu-toggle " href="#"><i class="icon-menu"></i></a>
-                                </div>
-                                <!-- Header Searchform area-->
-                                <div class="search_wrapper">
-                                    <form method="get" action="#">
-                                        <i class="icon_search icon-search"></i><a href="#" class="icon_close"><i class="icon-cancel"></i></a>
-                                        <input type="text" class="field" name="s" placeholder="Enter your search" />
-                                        <input type="submit" class="submit flv_disp_none" value="" />
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Revolution slider area-->
+            <?php include('header.php') ?>
+                            <!-- Revolution slider area-->
                 <div class="mfn-main-slider">
                     <div id="rev_slider_1_2_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;padding:0px;margin-top:0px;margin-bottom:0px;max-height:670px;">
                         <div id="rev_slider_1_2" class="rev_slider fullwidthabanner" style="display:none;max-height:670px;height:670px;">
@@ -131,7 +84,6 @@
                         </div>
                     </div>
                 </div>
-            </header>
         </div>
         <!-- Main Content -->
         <div id="Content">
@@ -145,7 +97,7 @@
                                     <!-- Three Fourth (3/4) Column -->
                                     <div class="column three-fourth column_column">
                                         <div class="column_attr ">
-                                            <h2 class="hrmargin_0">Recent news</h2>
+                                            <h2 class="hrmargin_0"> Recent news </h2>
                                         </div>
                                     </div>
                                     <!-- One Fourth (1/4) Column -->
