@@ -35,6 +35,7 @@
                                         </li>
                                     </ul>
                                     <p style="margin: 0 0 0 10px;">
+                                        &copy; <?php $date = date("Y"); echo $date; ?> Agrupación Espírita  <a target="_blank" rel="nofollow" href="http://cepuntosdeluz.com/"> Punto de Luz </a>
                                     </p>
                                 </div>
                             </div>
