@@ -35,7 +35,6 @@
                                         </li>
                                     </ul>
                                     <p style="margin: 0 0 0 10px;">
-                                        &copy; 2014 BeBePolitics - BeTheme. Muffin group - HTML by <a target="_blank" rel="nofollow" href="http://themeforest.net/item/betheme-html-responsive-multipurpose-template/13925633?ref=beantownthemes">BeantownThemes</a>
                                     </p>
                                 </div>
                             </div>

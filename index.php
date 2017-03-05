@@ -451,7 +451,7 @@
                                     <!-- One full width row-->
                                     <div class="column one column_column">
                                         <div class="column_attr align_center">
-                                            <h2 style="font-style: italic; margin: 0;">We are close to people</h2>
+                                            <h2 style="font-style: italic; margin: 0;"> Conferencias en vivo </h2>
                                         </div>
                                     </div>
                                 </div>
